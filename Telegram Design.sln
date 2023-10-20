@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegram Design", "Telegram Design\Telegram Design.csproj", "{01EEBA9A-91DA-478C-B299-9DC4E82032E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01EEBA9A-91DA-478C-B299-9DC4E82032E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EEBA9A-91DA-478C-B299-9DC4E82032E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EEBA9A-91DA-478C-B299-9DC4E82032E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EEBA9A-91DA-478C-B299-9DC4E82032E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D63C8BC-24DD-417D-A784-8F6561E41567}
+	EndGlobalSection
+EndGlobal

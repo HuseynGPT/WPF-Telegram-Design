@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\bin\Debug\net6.0-windows\Telegram Design.exe
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\bin\Debug\net6.0-windows\Telegram Design.deps.json
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\bin\Debug\net6.0-windows\Telegram Design.runtimeconfig.json
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\bin\Debug\net6.0-windows\Telegram Design.dll
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\bin\Debug\net6.0-windows\Telegram Design.pdb
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design.g.resources
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design.dll
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\refint\Telegram Design.dll
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design.pdb
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\Telegram Design.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Telegram Design\Telegram Design\obj\Debug\net6.0-windows\ref\Telegram Design.dll
